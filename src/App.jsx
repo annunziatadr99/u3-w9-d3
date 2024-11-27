@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import MyNav from "./components/MyNav";
 import Welcome from "./components/Welcome";
-import BookList from "./components/SingleBook";
+import BookList from "./components/BookList";
 import MyFooter from "./components/MyFooter";
 import scifi from "./books/scifi.json";
 function App() {
